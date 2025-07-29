@@ -2,7 +2,7 @@ s=input("Enter The String: ")
 s+=" "
 s2=""
 l_num=[]
-l_aplha=[]
+l_alpha=[]
 count=1
 for i in range(len(s)-1):
     if s[i]==s[i+1]:
